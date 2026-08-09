@@ -90,13 +90,13 @@ java <NomeDaClassePrincipal>
 
 A tabela abaixo indica a classe principal de cada pasta e o que ela demonstra:
 
-| Pasta                        | Classe(s) principal(is)                          | O que demonstra                                                                    |
-| ----------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| `parte-a-extends-thread`      | `MainAtendimentoThread`                            | Criação de threads por herança direta da classe Thread                              |
-| `parte-b-runnable`            | `MainAtendimentoRunnable`                          | Criação de threads pela interface Runnable                                          |
-| `parte-c-limite-threads-so`   | `MainLimiteThreadsSO`                              | Custo real de criar milhares de threads nativas do sistema operacional              |
-| `parte-d-executor-service`    | `MainExecutorService`, `MainExecutorServiceCached` | Pool fixo de threads (ExecutorService) e sua variação com pool dinâmico (exercício) |
-| `parte-e-virtual-threads`     | `MainVirtualThreads`, `MainVirtualThreadsPrint`    | Virtual Threads (Java 21+) e inspeção do tipo real da thread em execução (exercício) |
+| Pasta                       | Classe(s) principal(is)                            | O que demonstra                                                                      |
+| --------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| `parte-a-extends-thread`    | `MainAtendimentoThread`                            | Criação de threads por herança direta da classe Thread                               |
+| `parte-b-runnable`          | `MainAtendimentoRunnable`                          | Criação de threads pela interface Runnable                                           |
+| `parte-c-limite-threads-so` | `MainLimiteThreadsSO`                              | Custo real de criar milhares de threads nativas do sistema operacional               |
+| `parte-d-executor-service`  | `MainExecutorService`, `MainExecutorServiceCached` | Pool fixo de threads (ExecutorService) e sua variação com pool dinâmico (exercício)  |
+| `parte-e-virtual-threads`   | `MainVirtualThreads`, `MainVirtualThreadsPrint`    | Virtual Threads (Java 21+) e inspeção do tipo real da thread em execução (exercício) |
 
 Exemplo prático, rodando a Parte A:
 
@@ -174,8 +174,8 @@ Como a ordem de execução das threads não é determinística, a ordem das linh
 
 ## 👤 Autor
 
-| Nome                     | Foto                                                                                                        | GitHub                                                                                                                                                       | LinkedIn                                                                                                                                                              | Email                                                                                                                                                       |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome                 | Foto                                                                                                                  | GitHub                                                                                                                                                                                            | LinkedIn                                                                                                                                                                                                   | Email                                                                                                                                                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Artur Bomtempo Colen | <div align="center"><img src="https://avatars.githubusercontent.com/u/96635074?v=4" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/arturbomtempo-dev"><img src="https://arturbomtempo-dev.github.io/arturbomtempo-cdn/assets/icons/github.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/artur-bomtempo/"><img src="https://arturbomtempo-dev.github.io/arturbomtempo-cdn/assets/icons/linkedin.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:arturbcolen@gmail.com"><img src="https://arturbomtempo-dev.github.io/arturbomtempo-cdn/assets/icons/gmail.png" width="50px" height="50px"></a></div> |
 
 ---
