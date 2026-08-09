@@ -8,9 +8,9 @@ Projeto acadêmico da disciplina Laboratório de Desenvolvimento de Aplicações
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-007ec6?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-21%2B-007ec6?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub license](https://img.shields.io/badge/license-MIT-red?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/arturbomtempo-learning/threads-lab?style=for-the-badge&logo=files)
 ![GitHub last commit](https://img.shields.io/github/last-commit/arturbomtempo-learning/threads-lab?style=for-the-badge&logo=clockify)
-![GitHub license](https://img.shields.io/github/license/arturbomtempo-learning/threads-lab?style=for-the-badge&color=007ec6&logo=opensourceinitiative)
 
 ---
 
