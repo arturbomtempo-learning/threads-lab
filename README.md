@@ -1,4 +1,4 @@
-# 🧵 Threads em Java
+# Roteiro 1 - Threads em Java
 
 Projeto acadêmico da disciplina Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas (LabDAMD), Unidade 0, do curso de Engenharia de Software da PUC Minas. O trabalho consiste em um roteiro de revisão de Sistemas Operacionais e concorrência, implementando threads em Java pelas formas clássicas (Thread e Runnable) e pelas formas atuais (ExecutorService e Virtual Threads), além de responder às questões teóricas propostas ao longo do roteiro.
 
