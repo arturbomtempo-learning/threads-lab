@@ -10,7 +10,6 @@ public class MainVirtualThreads {
 
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor()) {
             for (int i = 0; i < total; i++) {
-                int idCliente = i;
                 executor.submit(() -> {
                     try {
                         Thread.sleep(1000);
